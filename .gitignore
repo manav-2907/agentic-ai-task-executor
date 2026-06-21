@@ -1,0 +1,73 @@
+# Virtual Environment
+
+venv/
+.venv/
+
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+
+.env
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# SQLite Databases
+
+*.db
+*.sqlite3
+
+# Test Coverage
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# LangGraph / Agent State
+
+checkpoints/
+memory_store/
+
+# Generated Reports
+
+reports/
+exports/
+generated_files/
+
+# Temporary Files
+
+temp/
+tmp/
+
+# Secrets
+
+secrets.json
+credentials.json
