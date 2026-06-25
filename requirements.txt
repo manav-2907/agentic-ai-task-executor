@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+pymupdf
+langchain
+python-dotenv
+langchain-openai
